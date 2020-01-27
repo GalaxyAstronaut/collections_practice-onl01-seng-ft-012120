@@ -12,6 +12,7 @@ def sort_array_char_count(arr)
 end 
 
 def swap_elements(arr) 
-  
+  new_arr = [] 
+  arr(1..-1)
   
 end
