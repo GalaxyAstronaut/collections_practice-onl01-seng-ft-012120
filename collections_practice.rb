@@ -34,3 +34,8 @@ end
 def find_a(arr)
   arr.select {|string| string.start_with? ("a")}
 end
+
+def sum_array(arr)
+  integers.inject
+  
+end
