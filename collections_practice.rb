@@ -36,6 +36,6 @@ def find_a(arr)
 end
 
 def sum_array(arr)
-  integers.inject
+  integers.inject{|sum,n| sum + n}
   
 end
