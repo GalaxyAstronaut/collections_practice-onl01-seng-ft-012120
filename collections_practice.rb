@@ -20,3 +20,8 @@ def reverse_array(arr)
   new_arr = arr.reverse 
   new_arr
 end
+
+def kesha_maker(arr)
+  
+  
+end
