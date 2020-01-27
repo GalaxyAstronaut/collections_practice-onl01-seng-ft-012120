@@ -41,5 +41,11 @@ end
 
 
 def add_s(arr)
-  
+  arr.each_with_index.collect do |string, index|
+    if index == 1 
+      string 
+    else 
+      string << "s"
+    end
+  end
 end
