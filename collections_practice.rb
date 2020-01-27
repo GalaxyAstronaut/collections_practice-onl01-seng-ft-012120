@@ -33,5 +33,4 @@ end
 
 def find_a(arr)
   arr.select {|string| string.start_with? ("a")}
-  
 end
